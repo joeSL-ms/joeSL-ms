@@ -4,39 +4,17 @@
 
 ---
 
-## 🧠 Tecnologías que manejo
+## 🧠 Stack tecnológico
 
-### 🔤 Lenguajes
-- Python 🐍
-- JavaScript ⚡
-- TypeScript
-- PHP
-- C++
-- Java
-- SQL
-
-### ⚙️ Frameworks y herramientas
-- React & Next.js
-- Flask + Gunicorn
-- TailwindCSS
-- Pandas para análisis de datos
-
-### 🗃️ Bases de Datos
-- PostgreSQL
-- SQL Server
-- MongoDB
-- Consultas SQL complejas
-
-### 🤖 NLP & LLMs
-- `sentence-transformers`, `transformers`, `torch`, `FAISS`
-- Experiencia con Hugging Face
-- Fine-tuning y reentrenamiento de modelos de lenguaje
-- Indexado y recuperación de embeddings
-- Clasificación de sentimientos, extracción de información y más
-
-### 🖥️ Infraestructura
-- Pruebas y despliegue en máquinas virtuales
-- APIs REST para modelos y visualizadores
+| Lenguajes               | Frameworks & Librerías     | Bases de Datos          | NLP / LLM               | Infraestructura           |
+|-------------------------|-----------------------------|--------------------------|--------------------------|----------------------------|
+| Python 🐍               | React / Next.js             | PostgreSQL               | Hugging Face 🤗          | Máquinas Virtuales 💻      |
+| JavaScript ⚡           | Flask + Gunicorn            | SQL Server               | SentenceTransformers     | APIs REST                  |
+| TypeScript              | TailwindCSS                 | MongoDB                  | Transformers             |                           |
+| PHP                     | Pandas                      | SQL                      | Torch                    |                           |
+| C++                     |                             |                          | FAISS                    |                           |
+| Java                   |                             |                          | Fine-tuning de modelos   |                           |
+| SQL                    |                             |                          |                          |                           |
 
 ---
 
